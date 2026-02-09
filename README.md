@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keikaye
 - 👀 I’m interested in any programming languages
-- 🌱 I’m currently learning C++, JavaScript, & Python
+- 🌱 I’m currently learning C#, JavaScript, & PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/they
